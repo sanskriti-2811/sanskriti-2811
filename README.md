@@ -14,7 +14,7 @@
 
 👯 I’m looking to collaborate on **exciting projects** where I can contribute my expertise in Flutter and Android development.
 
-📫 How to reach me: **ksanskriti008@gmail.com** | **+91 9520254757**
+📫 How to reach me: **ksanskriti008@gmail.com** | 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
